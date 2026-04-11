@@ -1,4 +1,4 @@
-# P2_SemaforoLeds-README.md
+# P2_SemaforoLeds
 
 ## Descripción
 Esta práctica implementa un sistema de semáforo utilizando una Raspberry Pi y tres LEDs (verde, amarillo y rojo). El objetivo es simular el comportamiento real de un semáforo con tiempos definidos y una secuencia de transición en el estado amarillo.

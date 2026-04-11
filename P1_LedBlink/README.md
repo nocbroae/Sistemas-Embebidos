@@ -1,4 +1,4 @@
-# Práctica 1 - LED Blink
+P1_LedBlink
 
 ## Objetivo
 Encender y apagar un LED usando Raspberry Pi.

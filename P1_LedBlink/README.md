@@ -1,25 +1,43 @@
-P1_LedBlink
+# P1_LedBlink
 
-## Objetivo
-Encender y apagar un LED usando Raspberry Pi.
+## Descripción
+Esta práctica consiste en el control básico de un LED utilizando la Raspberry Pi. Se implementan dos versiones: una utilizando la numeración de pines BCM (GPIO) y otra utilizando la numeración física (BOARD). El objetivo es comprender el manejo de salidas digitales y las diferencias entre ambos modos.
 
-## Materiales
-- Raspberry Pi 3B+
-- LED
-- Resistencia
+---
+
+## Materiales utilizados
+- Raspberry Pi
+- 1 LED
+- 1 resistencia (220Ω o 330Ω)
+- Cables jumper
 - Protoboard
 
-## Conexión
-GPIO18 (Pin 12) → Resistencia → LED → GND (Pin 6)
+---
 
-## Código BCM
-(pegas tu código aquí)
+## Conexiones GPIO
 
-## Código BOARD
-(pegas tu código aquí)
+### Modo BCM
+| Elemento | GPIO (BCM) | Pin físico |
+|----------|------------|------------|
+| LED      | 18         | 12         |
 
-## Resultado
-El LED parpadea correctamente.
+### Modo BOARD
+| Elemento | Pin físico |
+|----------|------------|
+| LED      | 12         |
 
-## Conclusión
-Se aprendió el uso de GPIO en modos BCM y BOARD.
+---
+
+## Funcionamiento del sistema
+
+### Versión 1: Modo BCM
+- Se utiliza la numeración de pines GPIO
+- El LED se enciende y apaga cada segundo
+- Se muestra el estado en la terminal (ENCENDIDO/APAGADO)
+- El ciclo se repite indefinidamente
+
+### Versión 2: Modo BOARD
+- Se utiliza la numeración física de los pines
+- El LED realiza un parpadeo rápido (3 veces)
+- Se repite durante 10 ciclos
+- Se muestra el número de ciclo en la terminal

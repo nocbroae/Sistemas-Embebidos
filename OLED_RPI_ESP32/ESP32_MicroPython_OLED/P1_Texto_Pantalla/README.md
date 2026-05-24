@@ -136,6 +136,8 @@ Ejecutar desde Thonny o cargar el archivo al ESP32 y ejecutarlo.
 ✔️ Uso de funciones del FrameBuffer  
 
 ---
+<img width="720" height="1280" alt="e21642db-749b-436c-933f-31eac960c38f" src="https://github.com/user-attachments/assets/0b2d2a90-05e7-4f57-9183-547b10edaa31" />
+
 
 ## 👨‍💻 Autor
 

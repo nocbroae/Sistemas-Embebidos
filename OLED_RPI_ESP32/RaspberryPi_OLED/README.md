@@ -1,9 +1,8 @@
-
 # RaspberryPi_OLED
 
 Repositorio de prácticas de laboratorio para el uso de pantallas OLED SSD1306 con Raspberry Pi 3 utilizando Python y la biblioteca `luma.oled`.
 
-Basado en el manual de prácticas de Sistemas Embebidos Aplicados a Móviles del TESOEM. :contentReference[oaicite:0]{index=0}
+Basado en el manual de prácticas de Sistemas Embebidos Aplicados a Móviles del TESOEM.
 
 ---
 
@@ -13,13 +12,10 @@ Basado en el manual de prácticas de Sistemas Embebidos Aplicados a Móviles del
 
 | Práctica | Descripción |
 |---|---|
-| P5 | Lectura de temperatura y humedad con DHT11 |
-| P6 | DHT11 con pantalla LCD |
-| P7 | LCD con texto scrolling |
-| P8 | Pantalla OLED con logo |
-| P9 | Pantalla OLED con texto scrolling |
-| P10 | DHT11 con pantalla OLED |
-| P11 | Monitor ambiental OLED con gráficos |
+| P1 | Texto estático y dinámico en pantalla OLED |
+| P2 | Texto scrolling por software y hardware |
+| P3 | Estilos visuales, contraste e inversión |
+| P4 | Gráficos e imágenes en pantalla OLED |
 
 ---
 
@@ -30,10 +26,11 @@ Basado en el manual de prácticas de Sistemas Embebidos Aplicados a Móviles del
 - Programación en Python
 - Uso de la biblioteca `luma.oled`
 - Manipulación de imágenes con Pillow
-- Visualización de sensores
 - Texto scrolling
+- Renderizado gráfico
 - Interfaces gráficas embebidas
-- Integración de sensores DHT11
+- Animaciones OLED
+- Conversión de imágenes monocromáticas
 
 ---
 
@@ -136,13 +133,10 @@ o
 ```txt
 RaspberryPi_OLED/
 │
-├── P5_DHT11/
-├── P6_DHT11_LCD/
-├── P7_LCD_Texto_Scrolling/
-├── P8_Pantalla_OLED_Logo/
-├── P9_OLED_Texto_Scroll/
-├── P10_DHT11_OLED/
-├── P11_DHT11_OLED_Grafico/
+├── P1_Texto_Pantalla/
+├── P2_Texto_Scrolling/
+├── P3_Estilos_Visuales/
+├── P4_Graficos_Imagenes/
 │
 └── README.md
 ```
@@ -156,7 +150,8 @@ RaspberryPi_OLED/
 - Crear interfaces gráficas simples.
 - Mostrar texto estático y dinámico.
 - Implementar animaciones scrolling.
-- Integrar sensores ambientales.
+- Dibujar primitivas gráficas.
+- Cargar imágenes monocromáticas.
 - Aplicar programación modular en Python.
 
 ---

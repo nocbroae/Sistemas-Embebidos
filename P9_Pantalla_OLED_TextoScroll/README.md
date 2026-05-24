@@ -1,3 +1,7 @@
+
+
+
+
 # P9 - Pantalla OLED con Texto Scroll
 
 Repositorio de práctica para mostrar texto desplazable en una pantalla OLED SSD1306 conectada a una Raspberry Pi mediante Python.
@@ -113,6 +117,7 @@ Al ejecutar el programa, el mensaje definido en `config.py` se desplazará conti
 - ✔️ Uso de constantes en archivo de configuración
 - ✔️ Manejo de interrupción con teclado
 - ✔️ Código limpio y legible
+  https://github.com/user-attachments/assets/ff02cb13-ad0b-4690-b27c-096bf4974c77
 
 ## 👨‍💻 Autor
 

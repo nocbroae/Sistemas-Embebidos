@@ -139,6 +139,8 @@ Hum: 40.0 %
 - ✔️ Manejo de errores del sensor
 - ✔️ Uso de clases
 - ✔️ Estructura escalable de carpetas
+  <img width="1280" height="720" alt="e89b4dd7-108b-4a76-adc4-f5bbb8d45003" src="https://github.com/user-attachments/assets/b14f2407-c4e7-4d2a-b3c4-cc541600f1ab" />
+
 
 ## 👨‍💻 Autor
 

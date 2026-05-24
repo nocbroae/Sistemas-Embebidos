@@ -115,6 +115,9 @@ Texto scrolling
 - ✔️ Manejo de errores
 - ✔️ Código limpio y legible
 
+ <img width="875" height="407" alt="1e6b2479-5b98-4442-bb28-e7fa729a8f56" src="https://github.com/user-attachments/assets/83a9164e-9ad7-423e-9904-69e7ec7ce49a" />
+
+
 ## 👨‍💻 Autor
 
 Alan Fernández  

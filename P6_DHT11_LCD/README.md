@@ -137,6 +137,10 @@ sin lectura
 - ✔️ Uso de clases
 - ✔️ Reutilización de componentes
 - ✔️ Código limpio y legible
+- <img width="720" height="1280" alt="46302223-b3b3-47b5-bd7d-db4cb574a96b" src="https://github.com/user-attachments/assets/d6281e22-6c38-4766-9dcc-8a77ee710ab3" />
+<img width="720" height="1280" alt="2bc92ca6-e881-41c0-b1f7-8560e85c91d4" src="https://github.com/user-attachments/assets/268762d5-ed28-489a-add4-ffc06b230882" />
+<img width="720" height="1280" alt="b20aadb0-a64c-45ec-b3cc-0e57bbec0e08" src="https://github.com/user-attachments/assets/5db153c1-4f66-490f-b02f-b10323700367" />
+
 
 ## 👨‍💻 Autor
 

@@ -138,6 +138,8 @@ Después mostrará el logo y finalmente actualizará la hora en tiempo real.
 - ✔️ Separación lógica en archivos
 - ✔️ Reutilización de componentes
 - ✔️ Código claro y legible
+- <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/13665383-218e-43ee-8469-3812928e7f0f" />
+
 
 ## 👨‍💻 Autor
 

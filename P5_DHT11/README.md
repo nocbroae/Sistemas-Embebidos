@@ -194,25 +194,7 @@ Iniciando lectura del DHT11...
 
 ---
 
-# 📸 Evidencias
 
-## Conexión del circuito
-
-Agregar imagen en:
-
-```txt
-img/conexion.jpg
-```
-
-## Funcionamiento
-
-Agregar imagen en:
-
-```txt
-img/funcionando.jpg
-```
-
----
 
 # 👨‍💻 Autor
 

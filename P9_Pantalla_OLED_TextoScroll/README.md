@@ -117,7 +117,11 @@ Al ejecutar el programa, el mensaje definido en `config.py` se desplazará conti
 - ✔️ Uso de constantes en archivo de configuración
 - ✔️ Manejo de interrupción con teclado
 - ✔️ Código limpio y legible
-  https://github.com/user-attachments/assets/ff02cb13-ad0b-4690-b27c-096bf4974c77
+ 
+
+https://github.com/user-attachments/assets/888daf36-af51-4b79-824a-2bc660c9b852
+
+
 
 ## 👨‍💻 Autor
 

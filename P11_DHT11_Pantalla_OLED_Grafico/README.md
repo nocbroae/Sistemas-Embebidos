@@ -125,6 +125,7 @@ La pantalla OLED mostrará:
 - ✔️ Manejo de excepciones
 - ✔️ Código reutilizable
 - ✔️ Estructura escalable
+<img width="720" height="1280" alt="8554d580-0356-4df5-b355-83a198ecd2bd" src="https://github.com/user-attachments/assets/f8aa6758-c5b5-44e9-9823-24ef699d2010" />
 
 ## 👨‍💻 Autor
 
